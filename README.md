@@ -1,6 +1,6 @@
-import java.io.*;
+import java.main;
 
-class GFG {
+class main {
     public static void main(String args[])
     {
         float P = 1, R = 1, T=1;
